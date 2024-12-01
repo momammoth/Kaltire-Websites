@@ -127,7 +127,7 @@
 
 <header>
     <div class="container">
-        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/KalTire-Logo-2C-RGB.jpg" alt="Kal Tire Logo">
+        <img src="Alignment Examples/KalTire-Logo-2C-RGB.jpg" alt="Kal Tire Logo">
         <h1>Professional Alignment Services</h1>
     </div>
 </header>
@@ -147,7 +147,7 @@
     <section class="content-section">
         <h2>Why Alignment Matters</h2>
         <p>Proper wheel alignment ensures your vehicle drives straight, reduces uneven tire wear, and enhances overall safety. Misaligned wheels can cause tires to wear prematurely and reduce fuel efficiency. Regular alignment checks are essential for vehicle health.</p>
-        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/tire-alignment-hero-learn-na-bst-web-consumer.jfif" alt="Professional Wheel Alignment">
+        <img src="Alignment Examples/tire-alignment-hero-learn-na-bst-web-consumer.jfif" alt="Professional Wheel Alignment">
     </section>
 
     <section class="content-section">
@@ -159,13 +159,13 @@
             <li>Your vehicle's alignment is already in specification, and no changes are required.</li>
         </ul>
         <p>This ensures transparency and fair pricing for our valued customers.</p>
-        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/align-standard-gallery-he.jpg" alt="Alignment Adjustment">
+        <img src="Alignment Examples/align-standard-gallery-he.jpg" alt="Alignment Adjustment">
     </section>
 
     <section class="content-section">
         <h2>Understanding Alignment Readings</h2>
         <p>Your alignment report provides detailed information about your vehicle's current condition. Our experts analyze camber, caster, and toe to ensure proper alignment. See below for an example alignment report:</p>
-        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/wheel-alignment-spec.png" alt="Alignment Report Example">
+        <img src="Alignment Examples/wheel-alignment-spec.png" alt="Alignment Report Example">
     </section>
 </main>
 
