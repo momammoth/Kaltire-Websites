@@ -2,78 +2,175 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Benefits of Lubricating Brake Pads and Pistons</title>
+    <title>Kal Tire Alignment Services</title>
+    <!-- Include Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        /* Reset Styles */
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            box-sizing: border-box;
         }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 1em;
-            text-align: center;
-        }
-        main {
-            padding: 20px;
-        }
-        h1, h2 {
+
+        /* Body Styling */
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: #ffffff;
             color: #333;
+            line-height: 1.6;
+        }
+
+        /* Header Styling */
+        header {
+            background-color: #004B8D; /* Kal Tire Blue */
+            color: #fff;
+            padding: 20px 0;
+            position: relative;
+            width: 100%;
+        }
+        header .container {
+            width: 90%;
+            margin: auto;
+            position: relative;
+        }
+        header img {
+            position: absolute;
+            top: 10px;
+            left: 30px; /* Adjusted to move the logo slightly to the right */
+            width: 150px;
+            height: auto;
+        }
+        header h1 {
+            text-align: center;
+            font-size: 2.5em;
+            font-weight: 600;
+            margin-top: 0;
+        }
+
+        /* Navigation Bar */
+        nav {
+            background-color: #003366;
+        }
+        nav .container {
+            width: 90%;
+            margin: auto;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: 600;
+            padding: 14px 0;
+            display: block;
+        }
+        nav ul li a:hover {
+            border-bottom: 2px solid #FF6600; /* Kal Tire Orange */
+        }
+
+        /* Main Content Styling */
+        main {
+            width: 90%;
+            margin: 40px auto;
+        }
+        h2 {
+            color: #004B8D;
+            margin-bottom: 15px;
         }
         .content-section {
-            margin: 20px 0;
+            margin-bottom: 50px;
         }
-        img {
-            max-width: 100%;
+        .content-section p {
+            font-size: 1.1em;
+            margin-bottom: 20px;
+        }
+        .content-section img {
+            width: 100%;
+            max-width: 600px;
             height: auto;
             display: block;
-            margin: 10px 0;
+            margin: 20px auto;
         }
+
+        /* Footer Styling */
         footer {
+            background-color: #004B8D;
+            color: #fff;
             text-align: center;
-            padding: 10px;
-            background-color: #333;
-            color: white;
-            margin-top: 20px;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+
+        /* Responsive Styling */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            nav ul {
+                flex-direction: column;
+            }
+            nav ul li {
+                margin: 10px 0;
+            }
         }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>The Importance of Brake Pad and Piston Lubrication</h1>
+    <div class="container">
+        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/KalTire-Logo-2C-RGB.jpg" alt="Kal Tire Logo">
+        <h1>Professional Alignment Services</h1>
+    </div>
 </header>
+
+<nav>
+    <div class="container">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Alignments</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </div>
+</nav>
 
 <main>
     <section class="content-section">
-        <h2>Why Lubricate Brake Pads and Pistons?</h2>
-        <p>Brake pads and pistons are critical components in the braking system. Over time, these parts can become stiff, corroded, or clogged with dirt and debris, which impacts braking performance. Proper lubrication and servicing can extend the lifespan of these components and ensure smooth, safe operation.</p>
+        <h2>Why Alignment Matters</h2>
+        <p>Proper wheel alignment ensures your vehicle drives straight, reduces uneven tire wear, and enhances overall safety. Misaligned wheels can cause tires to wear prematurely and reduce fuel efficiency. Regular alignment checks are essential for vehicle health.</p>
+        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/tire-alignment-hero-learn-na-bst-web-consumer.jfif" alt="Professional Wheel Alignment">
     </section>
 
     <section class="content-section">
-        <h2>Applying Brake Grease to the Guide Pins</h2>
-        <p>Applying brake grease to the guide pins helps prevent them from seizing up due to heat and friction. This ensures that the brake pads can move freely, reducing wear and tear and improving braking efficiency.</p>
-        <img src="file:///C:/Users/Kal%20Tire/Downloads/Lubricating-Brake-Pad-Guide-Pins-1652279880926.jpg" alt="Applying grease to brake guide pins">
+        <h2>When We Charge for Alignments</h2>
+        <p>At Kal Tire, you are only charged for an alignment if:</p>
+        <ul>
+            <li>We need to make an adjustment to bring your alignment into specification.</li>
+            <li>A suspension part needs to be replaced to ensure proper alignment.</li>
+            <li>Your vehicle's alignment is already in specification, and no changes are required.</li>
+        </ul>
+        <p>This ensures transparency and fair pricing for our valued customers.</p>
+        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/align-standard-gallery-he.jpg" alt="Alignment Adjustment">
     </section>
 
     <section class="content-section">
-        <h2>Servicing the Brake Pads</h2>
-        <p>Brake pads should be lubricated on their back surfaces and mounting tabs (never the front). This reduces noise and prevents sticking, which can cause uneven wear. Proper lubrication on the back of brake pads can also help dissipate heat.</p>
-        <img src="file:///C:/Users/Kal%20Tire/Downloads/ceramic-brake-lubricant-236ml-874803ce-1ed5-4c5d-afc3-03512aa31470-jpgrendition.jpg" alt="Applying lubricant to brake pads">
-    </section>
-
-    <section class="content-section">
-        <h2>Where to Apply Brake Grease on Disk Brakes</h2>
-        <p>The illustration below shows the recommended points for applying brake grease on disk brakes, including the caliper bushings, pins, and the back of the pads. Proper application ensures longevity and optimal performance of brake components.</p>
-        <img src="file:///C:/Users/Kal%20Tire/Downloads/Disc-Brake-Greasing_4-2000.jpg" alt="Illustration showing where to apply brake grease on disk brakes "style="width: 50%;">
+        <h2>Understanding Alignment Readings</h2>
+        <p>Your alignment report provides detailed information about your vehicle's current condition. Our experts analyze camber, caster, and toe to ensure proper alignment. See below for an example alignment report:</p>
+        <img src="file:///C:/Users/Kal Tire/Desktop/Alignment/Alignment Examples/wheel-alignment-spec.png" alt="Alignment Report Example">
     </section>
 </main>
 
 <footer>
-    <p>&copy; 2024 Kal Tire Brake Maintenance Guide</p>
+    <p>&copy; 2024 Kal Tire Alignment Services. All rights reserved.</p>
 </footer>
 
 </body>
